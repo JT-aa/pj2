@@ -6,7 +6,7 @@
   "version": "0.0.1",
   "repository": {
     "type": "git",
-    "url": "https://github.com/JT-aa/pj2"
+    "url": "https://github.com/IST402/pj2temp"
   },
   "scripts": {
     "lint": "eslint --ext .js,.html . --ignore-path .gitignore && prettier \"**/*.js\" --check --ignore-path .gitignore",
